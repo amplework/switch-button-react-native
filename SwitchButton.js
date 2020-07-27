@@ -221,7 +221,9 @@ const switchStyles = StyleSheet.create({
       height: 2
     },
     shadowRadius: 10,
-    shadowOpacity: 1
+    shadowOpacity: 1,
+    bottom: 1,
+    left: -1
   }
 
 });
