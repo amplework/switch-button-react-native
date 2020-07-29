@@ -223,7 +223,8 @@ const switchStyles = StyleSheet.create({
     shadowRadius: 10,
     shadowOpacity: 1,
     bottom: 1,
-    left: -1
+    left: -1,
+    elevation: 5
   }
 
 });
